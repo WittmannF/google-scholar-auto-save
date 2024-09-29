@@ -2,7 +2,7 @@
 
 ## Overview
 
-Google Scholar Auto Save is a JavaScript-based tool designed to automate the process of saving articles from Google Scholar search results to a specified reading list. This script streamlines the task of manually clicking through and saving multiple articles, saving time for researchers and academics.
+Google Scholar Auto Save is a JavaScript-based automation script designed to automate the process of saving articles from Google Scholar search results to a specified reading list. This script streamlines the task of manually clicking through and saving multiple articles, saving time for researchers and academics.
 
 ## Examples
 ### Simple Example - Save to Default Reading List
