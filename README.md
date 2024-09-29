@@ -9,6 +9,7 @@ Google Scholar Auto Save is a JavaScript-based tool designed to automate the pro
 https://github.com/user-attachments/assets/f13120bd-0c54-4b80-8251-6d44511354b2
 
 ### Advanced - Specifying Reading List
+https://github.com/user-attachments/assets/7fd97248-f49f-41d9-9af6-a7ed61097846
 
 
 ## Features
